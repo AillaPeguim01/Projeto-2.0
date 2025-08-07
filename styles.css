@@ -2,7 +2,7 @@ body {
     color: rgb(55, 124, 49);
     background:lightpink;
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Mozilla Headline", sans-serif;
     margin-bottom: 100px;
 }
 
@@ -11,6 +11,7 @@ header {
     padding: 20px;
     font-size: 32px;
     color: rgb(78,195, 82);
+    font-family: "Oswald", sans-serif;
 }
 
 .chamada {
