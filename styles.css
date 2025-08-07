@@ -58,3 +58,7 @@ p {
 .categoria h2 {
     color: rgb(78,195, 82);
 }
+<div class="logo-container">
+            <img src="logo.png" alt="Logo" class="logo">
+            <h1 class="nome-site">Sustentech</h1>
+        </div>
