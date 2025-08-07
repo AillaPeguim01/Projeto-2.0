@@ -58,7 +58,13 @@ p {
 .categoria h2 {
     color: rgb(78,195, 82);
 }
-<div class="logo-container">
-            <img src="logo.png" alt="Logo" class="logo">
-            <h1 class="nome-site">Sustentech</h1>
-        </div>
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 15px; /* espaço entre logo e texto */
+}
+
+.logo {
+    height: 90px; /* ajuste o tamanho conforme necessário */
+    width: auto;
+}
