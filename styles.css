@@ -79,3 +79,7 @@ p {
     width: auto;
     border-radius: 80px;
 }
+img {
+  width: 1920px;
+  height: auto;
+}
