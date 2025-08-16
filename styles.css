@@ -80,6 +80,7 @@ p {
     border-radius: 80px;
 }
 img {
-  width: 200px;
-  height: 100px;
+   height: 100px; 
+    width: auto;
+    border-radius: 80px;
 }
