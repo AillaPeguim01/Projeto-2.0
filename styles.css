@@ -51,6 +51,9 @@ p {
     height: 200px;
 }
 
+.site {
+font-family: "Libertinus Serif", sans-serif;
+}
 .categoria-videos img:hover {
     opacity: 1.0;
     border: 3px solid green;
